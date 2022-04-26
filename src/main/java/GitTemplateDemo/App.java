@@ -5,7 +5,7 @@ package GitTemplateDemo;
 
 public class App {
     public String getGreeting() {
-        return "Hello world! s";
+        return "Hello world!";
     }
 
     public static void main(String[] args) {
